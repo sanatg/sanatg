@@ -2,7 +2,7 @@
 - 👀 I’m interested in Many programming languages.
 - 🌱 I’m currently learning C,React.js,php
 - 💞️ I’m looking to collaborate on any project.
-- 📫 How to reach me-sanatasgsih@gmail.com
+- 📫 How to reach me- sanatasgsih@gmail.com
 
 <!---
 sanatg/sanatg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
