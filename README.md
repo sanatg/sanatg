@@ -51,4 +51,4 @@ Reachout to me:
 
 My Github Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sanatg&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sanatg&show_icons=true&theme=gotham" alt="sanatg" />
