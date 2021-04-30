@@ -12,11 +12,7 @@ Other Skills:
 
 <img src="https://img.shields.io/badge/Hacking-ffffff?style=for-the-badge&logo=hacking&logoColor=white"> <img src="https://img.shields.io/badge/Youtuber-red?style=for-the-badge&logo=youtube&logoColor=white">
 
-Contact:
+Contact Me Through:
 
 <a href = "mailto:sanatasgsih@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  <a href ="mailto:sanatasgsih@protonmail.com"><img src ="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 
-
-
-<br>
-<a href = "https://github.com/tech35/tech35/">inspired by tech35</a>
