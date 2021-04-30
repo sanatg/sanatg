@@ -27,7 +27,7 @@ Languages and Tools:
 <img src="https://img.shields.io/badge/Bash%20Scripting-000000?style=for-the-badge&logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> 
 
 
-operating system i use:
+OS I Use:
 
 <img src="https://img.shields.io/badge/linux mint-green?style=for-the-badge&logo=linux&logoColor=white">
 
