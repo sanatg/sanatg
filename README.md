@@ -4,7 +4,7 @@
 
 # Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 Hi,i'm Sanat Gupta,a 14 year old who loves programming from india and wants to become a software engineer someday,i am self-taught and a fan of open source
-i use linux,and in future i would love to contribute to other open source projects.
+i use linux and in future i would love to contribute to other open source projects.
 I myself have made some open-source projects-
 1. [Passwordmaker -a password manager](https://github.com/sanatg/passwordmaker.in-2)
 1. [Socially -a incedent management system](https://github.com/sanatg/socially)
