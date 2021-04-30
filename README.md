@@ -1,10 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanatg&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false)](https://github.com/sanatg/sanatg)
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi There and Welcome to the Git Profile of Sanat Gupta  
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My Github Profile
 
 ![Git stats](https://github-readme-stats.vercel.app/api?username=sanatg&count_private=true)
-
-![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanatg&layout=compact)
 
 Skills:
 
@@ -17,3 +15,8 @@ Other Skills:
 Contact:
 
 <a href = "mailto:sanatasgsih@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  <a href ="mailto:sanatasgsih@protonmail.com"><img src ="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+
+
+
+
+<a href = "https://github.com/tech35/tech35/">inspired by tech35</a>
