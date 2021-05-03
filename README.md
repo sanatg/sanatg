@@ -1,8 +1,9 @@
 
 
+# Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+![GitHub](https://img.shields.io/github/followers/sanatg?label=Follow%20Me%21&style=social) &nbsp;
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanatg&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false)](https://github.com/sanatg/sanatg)
 
-# Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 Hi,i'm Sanat Gupta,a 14 year old who loves programming from india and wants to become a software engineer someday,i am self-taught and a fan of open source
 i use linux and in future i would love to contribute to other open source projects.
 I myself have made some open-source projects-
