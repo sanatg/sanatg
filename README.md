@@ -24,9 +24,13 @@ Languages and Tools:
 
 Dev stuff i use:
 
-## os: 
+os: 
+
 <img src="https://img.shields.io/badge/linux mint-green?style=for-the-badge&logo=linux&logoColor=white">
 
+code editor:
+
+<img src="https://img.shields.io/badge/Vscodium-blue?style=for-the-badge&logo=&logoColor=white">
 
 
 Other Skills:
