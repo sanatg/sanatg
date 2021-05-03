@@ -24,7 +24,8 @@ Languages and Tools:
 
 Dev stuff i use:
 
-## os: <img src="https://img.shields.io/badge/linux mint-green?style=for-the-badge&logo=linux&logoColor=white">
+## os: 
+<img src="https://img.shields.io/badge/linux mint-green?style=for-the-badge&logo=linux&logoColor=white">
 
 
 
