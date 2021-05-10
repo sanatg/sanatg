@@ -18,10 +18,10 @@ Languages and Tools:
 
 <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/react.js-cyan?style=for-the-badge&logo=react&logoColor=blue"> 
 <img src="https://img.shields.io/badge/NODE.JS-green?style=for-the-badge&logo=node.js&logoColor=darkgreen"> <img src="https://img.shields.io/badge/php-6b9ff2?style=for-the-badge&logo=php&logoColor=black"> <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=FIREBASE&logoColor=orange"> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C%20language-0175C2?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/electron.js-656669?style=for-the-badge&logo=electron&logoColor=cyan">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"> <img src="https://img.shields.io/badge/C%20language-0175C2?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/electron.js-656669?style=for-the-badge&logo=electron&logoColor=cyan">
 <img src="https://img.shields.io/badge/react native-323330?style=for-the-badge&logo=react&logoColor=blue"> <img src="https://img.shields.io/badge/Babel-black?style=for-the-badge&logo=babel&logoColor=yellow">
 <img src="https://img.shields.io/badge/Bash%20Scripting-000000?style=for-the-badge&logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> 
-<img src="https://img.shields.io/badge/Bash%20Scripting-000000?style=for-the-badge&logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/Bitbucket-ffffff?style=for-the-badge&logo=bitbucket&logoColor=blue"> 
+<img src="https://img.shields.io/badge/Bash%20Scripting-000000?style=for-the-badge&logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/Bitbucket-blue?style=for-the-badge&logo=bitbucket&logoColor=white"> 
 <img src="https://img.shields.io/badge/git-ffffff?style=for-the-badge&logo=git&logoColor=orange"> 
 
 
