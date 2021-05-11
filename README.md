@@ -47,4 +47,8 @@ Reachout to me:
 
 My Github Stats:
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sanatg&show_icons=true&theme=gotham" alt="sanatg" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sanatg&show_icons=true&theme=gotham" alt="sanatg" />
+
+If you like my work consider supporting and following me on-
+
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"/>
