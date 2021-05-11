@@ -51,4 +51,4 @@ My Github Stats:
 
 If you like my work consider supporting and following me on-
 
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"/>
+<a href='buymeacoffee.com/sanatg' target="blank"><img src="https://github.com/sanatg/sanatg/blob/871a7106f5a6a301ae63bae80dac355125e360a3/buymeacoffe.png" /></a>
