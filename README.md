@@ -4,41 +4,40 @@
 ![GitHub](https://img.shields.io/github/followers/sanatg?label=Follow%20Me%21&style=social) &nbsp;
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanatg&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false)](https://github.com/sanatg/sanatg)
 
-Hi,i am Sanat Gupta a 14 year old who loves programming from india i am self-taught and a fan of open source
-i use linux and in future i would love to contribute to other open source projects.I also like pentesting and browsing through the web in free time
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/sanatg/sanatg/master/code.gif" width="500" height="320" />
 
-I myself have made some open-source projects-
-1. [Passwordmaker -a password manager](https://github.com/sanatg/passwordmaker.in-2)
-1. [Socially -a incedent management system](https://github.com/sanatg/socially)
+Hi,i am Sanat Gupta a 14 year old hailing from india who loves programming i am self-taught developer and a fan of open source
+i use linux and in future i would love to contribute to other open source projects.I also like ethical hacking in my free time
+
+Some of mine best projects-
+1. [Passwordmaker](https://github.com/sanatg/passwordmaker.in-2)
+1. [Socially](https://github.com/sanatg/socially)
 
 
 Languages and Tools:
+<br>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/sanatg/sanatg/master/code.gif" width="500" height="320" />
-
-
-<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/react.js-cyan?style=for-the-badge&logo=react&logoColor=blue"> 
-<img src="https://img.shields.io/badge/NODE.JS-green?style=for-the-badge&logo=node.js&logoColor=darkgreen"> <img src="https://img.shields.io/badge/php-6b9ff2?style=for-the-badge&logo=php&logoColor=black"> <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=FIREBASE&logoColor=orange"> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"> <img src="https://img.shields.io/badge/C%20language-0175C2?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/electron.js-656669?style=for-the-badge&logo=electron&logoColor=cyan">
-<img src="https://img.shields.io/badge/react native-323330?style=for-the-badge&logo=react&logoColor=blue"> <img src="https://img.shields.io/badge/Babel-black?style=for-the-badge&logo=babel&logoColor=yellow">
-<img src="https://img.shields.io/badge/Bash%20Scripting-000000?style=for-the-badge&logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> 
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/> <img src="https://img.shields.io/badge/php-6b9ff2?style=for-the-badge&logo=php&logoColor=black"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"> <img src="https://img.shields.io/badge/C%20language-0175C2?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/electron.js-656669?style=for-the-badge&logo=electron&logoColor=cyan">
+<img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/Babel-black?style=for-the-badge&logo=babel&logoColor=yellow">
+<img src="https://img.shields.io/badge/Bash%20Scripting-000000?style=for-the-badge&logo=gnu-bash&logoColor=white"> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> 
 <img src="https://img.shields.io/badge/Bitbucket-blue?style=for-the-badge&logo=bitbucket&logoColor=white"> 
-<img src="https://img.shields.io/badge/git-ffffff?style=for-the-badge&logo=git&logoColor=orange"> 
+<img src="https://img.shields.io/badge/git-ffffff?style=for-the-badge&logo=git&logoColor=orange"> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"/> <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/> <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/> <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white"/> <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/> <img src="https://img.shields.io/badge/Gimp-grey.svg?style=for-the-badge&logo=gimp&logoColor=white"/>
 
-
-
-Other Skills:
+Others:
 
 <img src="https://img.shields.io/badge/Hacking-ffffff?style=for-the-badge&logo=hacking&logoColor=white"> <img src="https://img.shields.io/badge/Youtuber-red?style=for-the-badge&logo=youtube&logoColor=white">
 
-Reachout to me:
+Socials:
 
 <a href = "mailto:sanatasgsih@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  <a href ="mailto:sanatasgsih@protonmail.com"><img src ="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+<a href="https://twitter.com/Unbox_Sanat/"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://discordapp.com/users/730802332261941339"> <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/> </a> <a href="https://medium.com/@sanatasgsih"><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
 
-My Github Stats:
+Git stats:
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sanatg&show_icons=true&theme=gotham" alt="sanatg" />
 
-If you like my work consider 
+If you like my work consider:
 
 <a href="https://www.buymeacoffee.com/sanatg"><img src="https://img.buymeacoffee.com/button-api/?text=Supporting me&emoji=&slug=sanatg&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff"></a>
