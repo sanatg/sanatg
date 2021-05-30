@@ -4,7 +4,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanatg&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false)](https://github.com/sanatg/sanatg) &nbsp; ![GitHub](https://img.shields.io/github/followers/sanatg?label=Following%21&style=social) 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/sanatg/sanatg/master/code.gif" width="500" height="320" />
+<img align="right" src="https://github.com/sanatg/sanatg/blob/master/Bro.png" alt="Coding Bro" width=350px height=350px/>
 
 I am Sanat Gupta a 14 year old hailing from india who loves programming. I am self-taught developer and a fan of open source
 i use linux and in future i would love to contribute to other open source projects.I also like ethical hacking in my free time
