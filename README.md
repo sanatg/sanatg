@@ -40,9 +40,3 @@ Socials:
 Git stats:
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sanatg&show_icons=true&theme=gotham" alt="sanatg" /> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanatg&layout=compact&theme=gotham"/> </p>
-
-
-
-If you like my work consider:
-
-<a href="https://www.buymeacoffee.com/sanatg"><img src="https://img.buymeacoffee.com/button-api/?text=Supporting me&emoji=&slug=sanatg&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff"></a>
