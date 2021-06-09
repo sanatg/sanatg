@@ -40,3 +40,7 @@ Socials:
 Git stats:
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sanatg&show_icons=true&theme=gotham" alt="sanatg" /> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanatg&layout=compact&theme=gotham"/> </p>
+
+Trophies:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sanatg&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
