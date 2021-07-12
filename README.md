@@ -6,8 +6,7 @@
 
 <img align="right" src="https://github.com/sanatg/sanatg/blob/master/Bro.png" alt="Coding Bro" width=350px height=350px/>
 
-I am Sanat Gupta a 14 year old hailing from india who loves programming. I am self-taught developer and a fan of open source
-i use linux and in future i would love to contribute to other open source projects.I also like ethical hacking in my free time
+I am Sanat Gupta a 14 year old hailing from india who loves programming. I am a self-taught developer a fan of open source and a lover of cyber security i would love to contribute and collabrate on any open source project.
 
 Some of mine best projects-
 1. [Passwordmaker](https://github.com/sanatg/passwordmaker.in-2)
