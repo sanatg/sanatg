@@ -31,9 +31,21 @@ Socials:
 <img alt="FreeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/>
 </a> <a href="https://stackoverflow.com/users/15342952/sanat-gupta"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 
+Updates july 2021:
+
+> Currently Working on world's first modular adblocker which can do a lot more than it's name and yes it's my biggest project after passwordmaker and socially. 
+> First module out now <a href="https://github.com/sanatg/TinyDefender" target="_blank">TinyDefender</a>
+> this and all the future modules and main tinyblocker will be updated frequently.
+
 Git stats:
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sanatg&show_icons=true&theme=gotham" alt="sanatg" /> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanatg&layout=compact&theme=gotham"/> </p>
+
+<br>
+
+![Metrics](https://metrics.lecoq.io/sanatg?template=classic&config.timezone=Asia%2FCalcutta)<br><br>
+
+![sanatg's github activity graph](https://activity-graph.herokuapp.com/graph?username=sanatg&theme=dracula) <br><br>
 
 Trophies:
 
