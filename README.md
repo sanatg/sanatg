@@ -6,9 +6,9 @@
 
 <img align="right" src="https://github.com/sanatg/sanatg/blob/master/Bro.png" alt="Coding Bro" width=350px height=350px/>
 
-I am Sanat Gupta a 14 year old hailing from india who loves programming. I am a self-taught developer a fan of open source and a lover of cyber security i would love to contribute and collabrate on any open source project.
+I'm Sanat Gupta, a 14-year-old self-taught developer from India. Passionate about open-source and cyber security, I'm eager to contribute to any open-source projects.
 
-Some of mine best projects-
+Some of my projects-
 1. [Passwordmaker](https://github.com/sanatg/passwordmaker.in-2)
 1. [Socially](https://github.com/sanatg/socially)
 
@@ -33,9 +33,7 @@ Socials:
 
 Updates july 2021:
 
-> Currently Working on world's first modular adblocker which can do a lot more than it's name and yes it's my biggest project after passwordmaker and socially. 
-> First module out now <a href="https://github.com/sanatg/TinyDefender" target="_blank">TinyDefender</a>
-> this and all the future modules and main tinyblocker will be updated frequently.
+> a open source prompt database
 
 Git stats:
 
